@@ -1,0 +1,17 @@
+.TodoListItem{
+    display: flex;
+    gap:25px;
+    align-items:center;
+    padding-bottom:20px;
+    border-bottom: 1px solid darkgray;
+}
+.TodoListItem .chkbox{
+    width:20px;
+}
+.TodoListItem .wdate{
+    font-size:14px;
+    color:gray;
+}
+.TodoListItem .content{
+    flex:1;
+}

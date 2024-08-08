@@ -1,0 +1,10 @@
+.inputCss{
+    width:100%;
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 5px;
+}
+.inputCss:focus{
+    outline:none;
+    border:1px solid coral;
+}

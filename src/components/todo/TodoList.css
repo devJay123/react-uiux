@@ -1,0 +1,10 @@
+.TodoList .inputSearch{
+    width:100%;
+    padding:5px;
+    border: 1px solid #ddd;
+    border-radius:5px;
+}
+.TodoList .inputSearch:focus{
+    outline:none; 
+    border:darkturquoise;
+}

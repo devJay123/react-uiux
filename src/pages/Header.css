@@ -1,0 +1,19 @@
+.header{
+    background-color:blueviolet;    
+}
+.header ul{
+    display:flex;
+    flex-flow: row no-wrap;
+    justify-content: space-around;
+    height:60px;
+    line-height:40px;
+    padding:5px;
+}
+.header ul li{
+    list-style-type:none; 
+}
+.header ul li a{
+    color:white;
+    font-size:1.2em;
+    text-decoration:none;
+}
